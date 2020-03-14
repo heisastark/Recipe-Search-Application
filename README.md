@@ -4,7 +4,7 @@ checkouttherecipeapp.netlify.com
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##Can be run offline by the following steps:
+## Can be run offline by the following steps:
 
 ## Available Scripts
 
