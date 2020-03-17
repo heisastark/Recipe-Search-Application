@@ -13,6 +13,13 @@
   );
 }
 
+.paragraph{
+  display: flex;
+  justify-content: center;
+  color: #dddcd7;
+  font-size: xx-large;
+}
+
 .search-form {
   min-height: 10vh;
   display: flex;

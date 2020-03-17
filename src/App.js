@@ -38,6 +38,7 @@ const App = () => {
 
   return (
     <div className="App">
+      <p class = "paragraph">Recipe Web Application - ♡ from Yashasvi</p>
       <form onSubmit={getSearch} className="search-form">
         <input
           className="search-bar"
